@@ -1,3 +1,4 @@
+![visitors](https://vbr.wocr.tk/badge?page_id=thisismedg.thisismedg&color=00cf00)
 - 👋 Hi, I’m @thisismedg
 - 👀 I’m interested in Web Development, UI/UX and Software Engineering.
 - 🌱 I’m currently learning docker and integrating google technologies into my web app projects.
