@@ -31,4 +31,6 @@ Currently pursuing my undergraduate degree, I am dedicated to learning and apply
 <a href="https://stats.dooboo.io/api/github-stats-advanced?login=thisismedg"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=thisismedg" width="440" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismedg&theme=material-palenight&hide_border=false&v2" alt="thisismedg" height="173"/>
 
+![thisismedg github-trophies](https://stats.dooboo.io/api/github-trophies?login=thisismedg)
 </div>
+
