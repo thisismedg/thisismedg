@@ -23,6 +23,7 @@ Currently pursuing my undergraduate degree, I am dedicated to learning and apply
 
 <br />
 <br />
+<br />
 
 ## Github Stats
 
