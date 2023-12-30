@@ -3,7 +3,7 @@
 
 I am deeply immersed in the world of web development and software engineering, driven by a passion for creating innovative solutions.
 
-Currently pursuing my undergraduate degree, I am dedicated to learning and applying cutting-edge technologies to real-world problems. Fluent in both English and Tagalog, I enjoy the creative and problem-solving aspects of programming.
+Currently pursuing my undergraduate degree, I am dedicated to learning and applying cutting-edge technologies to real-world problems. Fluent in both English and Tagalog, I enjoy the creative and problem-solving aspects of programming. My proficiency extends beyond programming languages to a holistic understanding of the creative and problem-solving aspects inherent in software development. 
 
 
 ## Language and Tools
@@ -31,3 +31,9 @@ Currently pursuing my undergraduate degree, I am dedicated to learning and apply
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismedg&theme=material-palenight&hide_border=false" alt="thisismedg" height="173"/>
 
 </div>
+
+UI/UX
+Open for commission
+Web Development (NextJS, MongoDB, Tailwind)
+Mobile (React Native)
+
