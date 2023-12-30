@@ -31,9 +31,3 @@ Currently pursuing my undergraduate degree, I am dedicated to learning and apply
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismedg&theme=material-palenight&hide_border=false" alt="thisismedg" height="173"/>
 
 </div>
-
-UI/UX
-Open for commission
-Web Development (NextJS, MongoDB, Tailwind)
-Mobile (React Native)
-
