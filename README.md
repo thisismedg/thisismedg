@@ -1,4 +1,4 @@
-<img alt="Logo" src="./logo.png" style="padding-right:10px;" />
+<img alt="Logo" src="./logo.svg" style="padding-right:10px;" />
 
 # 👋 Hi, I am DG Rabaya.
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) ![visitors](https://vbr.wocr.tk/badge?page_id=thisismedg.thisismedg&color=00cf00&style=flat-square) [![Github Follow](https://img.shields.io/github/followers/thisismedg?label=Follow%20Me&style=social)](https://github.com/thisismedg)
