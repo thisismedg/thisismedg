@@ -65,11 +65,12 @@ Currently pursuing my undergraduate degree, I am dedicated to learning and apply
 
 <br />
 <br />
+<br />
 
 ## Github Stats
 
 <div style="display: grid; grid-template-columns: 1fR; grid-gap: 1rem;">
-<a href="https://stats.dooboo.io/api/github-stats-advanced?login=thisismedg"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=thisismedg" width="440" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismedg&theme=material-palenight&hide_border=false" alt="thisismedg" height="173"/>
-
+<a href="https://stats.dooboo.io/api/github-stats-advanced?login=thisismedg"><img src="https://stats.dooboo.io/api/github-stats-advanced?v2&login=thisismedg" width="440" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?v2&user=thisismedg&theme=material-palenight&hide_border=false&v2" alt="thisismedg" height="171"/>
 </div>
+
